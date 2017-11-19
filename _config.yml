@@ -7,16 +7,16 @@ permalink: /blog/:year/:month/:day/:title/
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               Blog
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Welcome to my Blog...
 url: https://lanyon-plus.sbamin.com
 baseurl: "/site"
-urlimg: https://lanyon-plus.sbamin.com/images/
+#urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
 #url: https://dyndna.github.io/lanyon-plus
 #baseurl: "/lanyon-plus"
-#urlimg: https://dyndna.github.io/lanyon-plus/images/
+urlimg: https://rizwanabro.github.io/site/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
@@ -49,22 +49,22 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
+  name:              Rizwan Abro
   url:               https://twitter.com/abcd
-  avatar:         foo.png
+  avatar:         https://avatars2.githubusercontent.com/u/26161248?s=400&u=29242bdbcfcdc144c4052ee97825be48044fbdf4&v=4
   #email:           
 
 # Owner/author information
 owner:
-  name:           Foo Boo
-  avatar:         foo.png
+  name:           Rizwan Abro
+  avatar:         https://avatars2.githubusercontent.com/u/26161248?s=400&u=29242bdbcfcdc144c4052ee97825be48044fbdf4&v=4
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        abcd
-  facebook:       
-  github:         xyz123abc
+  facebook:       https://www.facebook.com/rizwan.wazir110
+  github:        https://github.com/Rizwanabro
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
   instagram:      
