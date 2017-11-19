@@ -10,7 +10,7 @@ encoding: utf-8
 title:               Blog
 #tagline:             'foo's website
 description:         Welcome to my Blog...
-url: https://lanyon-plus.sbamin.com
+url: #https://lanyon-plus.sbamin.com
 baseurl: "/site"
 #urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
@@ -113,6 +113,5 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.1
+
 ## END ##
